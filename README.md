@@ -1,4 +1,11 @@
-#Sambadak
-________
+#Sambadak: Nepali Text-To-Speech System
 
-Nepali Text-To-Speech Engine
+#Dependencies:
+
+pyqt
+numpy
+pydub
+
+#Then run:
+
+tts/sambadak.py
